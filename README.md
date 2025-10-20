@@ -1,2 +1,2 @@
-# matrix.js
-MatrixNumbers
+# matrixnumbers
+the script mades by Ivan Yatsynovych
